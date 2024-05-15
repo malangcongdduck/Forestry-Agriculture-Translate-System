@@ -1,1 +1,0 @@
-# Forestry-Agriculture-Translate-System
