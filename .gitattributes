@@ -1,0 +1,12 @@
+.git/objects/04/34bff194c1975106a9778ab91de11b4b84790b filter=lfs diff=lfs merge=lfs -text
+.git/objects/1f/0eba9a55e7d518e94276205d303296dd6cf722 filter=lfs diff=lfs merge=lfs -text
+.git/objects/81/e5b568985934608b9e762a11b2063d478a365c filter=lfs diff=lfs merge=lfs -text
+.git/objects/85/d9b2fc864d7748c9a667734b081be6b0d9e708 filter=lfs diff=lfs merge=lfs -text
+.git/objects/b5/a7ff3145822bb3651ee24e4f067ce0b57165ff filter=lfs diff=lfs merge=lfs -text
+.git/objects/cf/c5d1727eee889cc1e611da521c4c1b0aaddd9c filter=lfs diff=lfs merge=lfs -text
+model/KoBERT_homonym_dobok/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+model/KoBERT_homonym_dojang/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+model/KoBERT_homonym_hwa/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+model/KoBERT_homonym_similarity/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+model/similarity_model.joblib filter=lfs diff=lfs merge=lfs -text
+model/similarity_model.pkl filter=lfs diff=lfs merge=lfs -text
